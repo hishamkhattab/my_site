@@ -67,4 +67,8 @@
   .header-container {
     background: none;
   }
+
+  .header-container .subtext {
+    color: grey;
+  }
 }

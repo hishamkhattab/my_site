@@ -10,7 +10,7 @@ const HomePage = () => {
                 <div className="page-header__container d-flex flex-column justify-content-center ps-5">
                     <div className="page-header__title container">
                         <h1>Hi, my <br />name is <span>Hisham</span>.</h1>
-                        <div className="text-light">
+                        <div className="subtext text-light">
                         <p>I'm a <span>front-end develpoer</span> from cairo, Egypt.</p>
                         </div>
                     </div>
