@@ -69,6 +69,6 @@
   }
 
   .header-container .subtext {
-    color: #333;
+    color: #333 !important;
   }
 }
