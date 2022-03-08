@@ -10,7 +10,6 @@ const TODO = () => {
     </div>
     <div className="mb-5">
         <div className="links">
-            <a href="" className="link-text text-decoration-none text-dark d-block p-1">Website</a>
             <a href="https://github.com/hishamkhattab/ToDO_List" className="link-text text-decoration-none text-dark d-block p-1">Git-hub Repo</a>
         </div>
         <div className="tech ms-2">
